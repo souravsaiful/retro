@@ -1,0 +1,672 @@
+/*// Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+.navv {
+    padding: 15px 0;
+}
+.menu ul li a {
+   
+    padding: 0 !important;
+    text-align: end;
+}
+.r8{
+	text-align: end;
+}
+.banner h1 {
+    margin-top: 40px;
+    font-size: 37px;
+    margin-bottom: 2px;
+}
+.banner p {
+    margin-bottom: 31px;
+    font-size: 16px;
+}
+.get {
+    margin-bottom: 50px;
+    width: 102px !important;
+    height: 36px;
+}
+/*header end*/
+ 
+ /*history start*/
+ .history {
+    padding-bottom: 43px;
+}
+ .h_h1 {
+    margin-top: 45px !important;
+    font-size: 31px;
+}
+.h_p1 {
+    margin-top: 28px !important;
+}
+.h_p {
+    word-spacing: 2px;
+    letter-spacing: 0px;
+}
+ /*history end*/
+  /*idea start*/
+.idea {
+    padding: 55px 0;
+    background-color: #f4f4f4;
+}
+ .mt_20 {
+    margin-top: 20px;
+   
+}
+.pen {
+    margin-bottom: 23px;
+    width: 35px;
+}
+.i_content {
+   
+    padding: 35px 0;
+    
+}
+ .i_text p {
+    margin-bottom: 0;
+    margin-top: 21px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #637988;
+    letter-spacing: 0px;
+    word-spacing: 2px;
+}
+ /*idea end*/
+ /*client start*/
+  .client {
+     padding-bottom: 65px;
+}
+ .common {
+    margin-top: 50px;
+}
+ /*client end*/
+ /*recent start*/
+ .rct_pic {
+    margin-top: 60px;
+    margin-bottom: 65px;
+}
+ .common1 {
+ 	margin-top: 5px;
+    width: 264px;
+   
+}
+ /*recent end*/
+
+  /*project start*/
+ .project {
+   
+    padding: 65px 0;
+}
+.project h1 {
+    font-size: 27px;
+}
+.project p {
+    
+    margin-bottom: 30px;
+}
+.wd{
+	width: 143px !important;
+    height: 34px;
+}
+ /*project end*/
+
+ /*blog start*/
+ .tc{
+ 	text-align: center;
+ }
+ .b_content {
+    margin-top: 36px;
+}
+.hov{
+    width: 143px !important;
+    }
+.b_btn {
+    margin-top: 40px;
+    margin-bottom: 45px;
+}
+ /*blog end*/
+
+ /*news start*/
+ .news {
+    padding: 50px 0;
+  
+}
+ .n_content1 h1 {
+    font-size: 17px;
+}
+.n_form {
+    margin: 19px 0;
+    
+}
+.black {
+    margin-left: 0;
+	width:127px;
+    background-color: #19283f !important;
+    transition: .3s;
+}
+ /*news end*/
+
+  /*footer start*/
+ footer{
+ 	text-align: center;
+ }
+ .f1_p {
+   
+    line-height: 19px;
+}
+.mt {
+    margin-top: 15px;
+}
+ .f2 ul li a, .f3 ul li a {
+   
+    line-height: 24px;
+}
+.f2,.f3,.f4{
+	margin-top: 30px;
+}
+ /*footer end*/
+}
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*/
+.navv {
+    padding: 22px 0;
+}
+.menu ul li a {
+   
+    padding: 0 !important;
+    text-align: end;
+}
+.r8{
+	text-align: end;
+}
+.banner h1 {
+    margin-top: 80px;
+    font-size: 57px;
+}
+.banner p {
+    margin-bottom: 52px;
+    font-size: 19px;
+   
+}
+.get {
+    margin-bottom: 70px;
+    width: 120px;
+    height: 36px;
+}
+/*header end*/
+ /*history start*/
+ .history{
+padding-bottom: 50px;
+}
+.h_h1 {
+    margin-top: 60px !important;
+    font-size: 40px;
+}
+.h_p {
+    word-spacing: 2px;
+    letter-spacing: 0px;
+}
+ /*history end*/
+
+ /*idea start*/
+ .idea {
+    padding: 65px 0;
+    background-color: #f4f4f4;
+}
+ .mt_20 {
+    margin-top: 20px;
+   
+}
+.i_content {
+   
+    padding-bottom: 50px;
+  
+}
+ .i_text p {
+    margin-bottom: 0;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #637988;
+    letter-spacing: 0px;
+    word-spacing: 1px;
+}
+ /*idea end*/
+ /*client start*/
+  .client {
+     padding-bottom: 65px;
+}
+ .common {
+    margin-top: 60px;
+}
+ /*client end*/
+ /*recent start*/
+ .common1 {
+ 	margin-top: 5px;
+    width: 171px;
+    
+}
+.rct_pic {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+ /*recent end*/
+
+  /*project start*/
+ .project {
+   
+    padding: 70px 0;
+}
+.project h1 {
+    font-size: 30px;
+    
+}
+.project p {
+    
+    margin-bottom: 30px;
+}
+.wd{
+	width: 143px;
+    height: 34px;
+}
+ /*project end*/
+
+ /*blog start*/
+ .tc{
+ 	text-align: center;
+ }
+ .b_content {
+    margin-top: 36px;
+}
+.get {
+    width: 143px;
+    }
+.b_btn {
+    margin-top: 50px;
+    margin-bottom: 55px;
+}
+ /*blog end*/
+
+  /*news start*/
+ .n_content1 h1 {
+    font-size: 17px;
+}
+.n_form {
+    margin: 19px 0;
+    
+}
+.black {
+    margin-top: 20px;
+    margin-left: 28px;
+    background-color: #19283f !important;
+    transition: .3s;
+}
+ /*news end*/
+ /*footer start*/
+ footer{
+ 	text-align: center;
+ }
+ .f1_p {
+   
+    line-height: 19px;
+}
+.mt {
+    margin-top: 15px;
+}
+ .f2 ul li a, .f3 ul li a {
+   
+    line-height: 24px;
+}
+.f2,.f3,.f4{
+	margin-top: 30px;
+}
+ /*footer end*/
+ }
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+.menu ul li a {
+   
+    padding: 0 !important;
+    text-align: end;
+}
+.r8{
+	text-align: end;
+}
+.banner h1 {
+    margin-top: 135px;
+    font-size: 70px;
+   }
+.banner p {
+    margin-bottom: 52px;
+    font-size: 19px;
+   
+}
+.get {
+    margin-bottom: 108px ;
+    width: 145px;
+    height: 36px;
+}
+/*header end*/
+ 
+ /*history start*/
+ .h_h1 {
+    margin-top: 100px !important;
+    font-size: 40px;
+}
+.h_p {
+    word-spacing: 0px;
+    letter-spacing: 0px;
+}
+.lh{
+ line-height: 24px;
+}
+ /*history end*/
+ /*idea start*/
+ .idea {
+    padding: 100px 0;
+    background-color: #f4f4f4;
+}
+ .mt_20 {
+    margin-top: 20px;
+   
+}
+.i_content {
+   
+    padding-bottom: 50px;
+  
+}
+ .i_text p {
+    margin-top: 45px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #637988;
+    letter-spacing: 1px;
+    word-spacing: 0px;
+}
+ /*idea end*/
+ /*client start*/
+
+ .client {
+    
+    padding-bottom: 85px;
+}
+ .common {
+    margin-top: 60px;
+}
+ .h_h1 {
+    margin-top: 85px !important;
+    font-size: 40px;
+}
+
+ /*client end*/
+ /*recent start*/
+ .rct_pic {
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+ .common1 {
+ 	margin-top: 5px;
+    width: 163px;
+   
+}
+ /*recent end*/
+
+ /*project start*/
+ .project {
+   
+    padding: 80px 0;
+}
+
+ /*project end*/
+ /*footer start*/
+ .f1_p {
+   
+    line-height: 19px;
+}
+.mt {
+    margin-top: 50px;
+}
+ .f2 ul li a, .f3 ul li a {
+   
+    line-height: 30px;
+}
+ /*footer end*/
+
+ /*blog start*/
+ .b_content {
+    margin-top: 60px;
+}
+.b_btn {
+    margin-top: 60px;
+    margin-bottom: 71px;
+}
+ /*blog end*/
+
+ /*news start*/
+ .n_content1 h1 {
+    font-size: 17px;
+}
+.black {
+	width:127px;
+    background-color: #19283f !important;
+    transition: .3s;
+}
+ /*news end*/
+}
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*header start*/
+.banner h1 {
+    margin-top: 185px;
+    font-size: 80px;
+    
+}
+.banner p {
+    margin-bottom: 45px;
+    
+}
+.get {
+    margin-bottom: 160px;
+   
+}
+/*header end*/
+ /*history start*/
+ .h_h1 {
+    margin-top: 80px !important;
+    font-size: 45px;
+}
+.h_p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #637988;
+    line-height: 12px;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+}
+ /*history end*/
+ /*idea start*/
+ .idea {
+    padding: 100px 0;
+    background-color: #f4f4f4;
+}
+ .i_content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background-color: #ffffff;
+}
+ .i_text p {
+    margin-top: 45px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #637988;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+}
+ /*idea end*/
+  /*client start*/
+ .client {
+    padding-bottom: 100px;
+}
+ /*client end*/
+ /*recent start*/
+ .rct_pic {
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+ .common1 {
+    width: 209px;
+    
+}
+ /*recent end*/
+
+ /*news start*/
+ .n_content1 h1 {
+    font-size: 17px;
+}
+.black {
+	width:127px;
+    background-color: #19283f !important;
+    transition: .3s;
+}
+ /*news end*/
+ }
+ 
+
+/*// Extra Large devices (Large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/*header start*/
+.banner h1 {
+    margin-top: 215px;
+    font-size: 85px;
+}
+.get {
+   
+    margin-bottom: 131px;
+}
+   
+
+/*header end*/
+ /*history start*/
+.h_h1 {
+    margin-top: 100px !important;
+    font-size: 45px;
+}
+ /*history end*/
+ /*idea */
+ .idea {
+    padding: 88px 0;
+    background-color: #f4f4f4;
+}
+.i_content {
+    padding-top: 45px;
+    padding-bottom: 50px;
+   
+}
+ /*idea */
+ /*client start*/
+ .client {
+    padding-bottom: 100px;
+}
+ /*client end*/
+ /*recent start*/
+ .rct_pic {
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+ /*recent end*/
+ /*blog start*/
+ .b_content {
+    margin-top: 70px;
+}
+ /*blog end*/
+ }
+  
+ /*// xxl Large devices (Larger desktops, 1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1599.98px) { 
+/*header start*/
+.banner h1 {
+    margin-top: 230px;
+    
+}
+.get {
+    margin-bottom: 200px;
+   
+}
+/*header end*/
+ /*history start*/
+ .h_h1 {
+   margin-top: 130px !important;
+
+	font-size: 45px;
+}
+ /*history end*/
+ /*idea start*/
+ .i_text p {
+    margin-top: 45px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #637988;
+    letter-spacing: 0px;
+    word-spacing: 5px;
+   
+}
+ /*idea end*/
+ }
+
+
+ /*// xxxl Large devices (Larger desktops, 1600px and up)*/
+@media (min-width: 1600px) and (max-width: 1799.98px) { 
+/*header start*/
+.banner h1 {
+    margin-top: 230px;
+    
+}
+.get {
+    margin-bottom: 200px;
+   
+}
+/*header end*/
+ /*history start*/
+ .h_h1 {
+  margin-top: 130px !important;
+
+	font-size: 45px;
+    
+}
+ /*history end*/
+  /*idea start*/
+ .i_text p {
+    margin-top: 45px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #637988;
+    letter-spacing: 0px;
+    word-spacing: 4px;
+}
+ /*idea end*/
+ }
+
+/*// xxxxl large devices (larger desktops, 1800px and up)*/
+@media (min-width: 1800px) { 
+ /*history start*/
+ .h_h1 {
+   margin-top: 130px !important;
+
+	font-size: 45px;
+}
+ /*history end*/
+ /*idea start*/
+ .i_text p {
+    margin-top: 45px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #637988;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+ /*idea end*/
+ }
